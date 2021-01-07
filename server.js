@@ -1,3 +1,3 @@
-import { buildAndServe } from "https://cdn.jsdelivr.net/gh/ekmwest/piko@0.0.3/mod.js";
+import { dev } from "https://cdn.jsdelivr.net/gh/learnpoint/piko@0.9.6/mod.js";
 
-buildAndServe();
+dev();
